@@ -37,7 +37,7 @@ default_device()
 # 2. Convert file types (e.g., HEIC)
 #
 # ```bash
-# #!/usr/bin/env bash
+# !/usr/bin/env bash
 #
 # # Set options for recurisve glob
 # shopt -s globstar nullglob

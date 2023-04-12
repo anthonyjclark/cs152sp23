@@ -247,6 +247,32 @@ raw_dataset = [
     ("John loves the beach", "N V D N"),
     ("I am sitting", "N V V "),
     ("Monique loves tv", "N V N"),
+    ("Capybara eats a mikan", "N V D N")
+    ("The creature dances tonight ", "D N V N")
+    ("I like soccer", "N V N")
+    ("I need a nap", "N V D N")
+    ("A corgi rides a unicycle", "D N V D N")
+    ("Boats sail ocean", "N V N")
+    ("Pizza drips oil", "N V N")
+    ("Cat chases a mouse", "N V D N")
+    ("Teacher grades the papers", "N V D N")
+    ("I love watermelon", "N V N")
+    ("Pomona is fun", "N V N")
+    ("Austin likes eggs", "N V N")
+    ("Sam eats the peanuts", "N V D N")
+    ("Basketball is life", "N V N")
+    ("Soccer is fun", "N V N")
+    ("I play videogames", "N V N")
+    ("I kicked the ball", "N V D N")
+    ("Tyler likes eggs", "N V N")
+    ("Celebrate all the pets", "V D D N")
+    ("Eat my shorts", "V N N")
+    ("Tony likes keyboards", "N V N")
+    ("Dog walks the fish", "N V D N")
+    ("Eggs cook the stove", "N V D N")
+    ("She jumps the trampoline", "N V D N")
+    ("I ate the beans", "N V D N")
+    ("The beans were consumed", "D N V N")
 ]
 
 
